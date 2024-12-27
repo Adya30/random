@@ -96,6 +96,7 @@ a {
     font-style: italic;
     animation: fadeSlide 2s ease-out;
     margin: 0;
+    padding-bottom: 5px;
 }
 
 .img {
